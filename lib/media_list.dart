@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:dmi_practica09_200070/common/HttpHandler.dart';
-import 'package:dmi_practica09_200070/model/Media.dart';
-import 'package:dmi_practica09_200070/media_list_item.dart';
+import 'package:dmi_practica10_200070/common/HttpHandler.dart';
+import 'package:dmi_practica10_200070/model/Media.dart';
+import 'package:dmi_practica10_200070/media_list_item.dart';
 
 class MediaList extends StatefulWidget {
   @override

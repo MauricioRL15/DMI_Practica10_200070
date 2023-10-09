@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // import 'package:dmi_practica08_200070/common/HttpHandler.dart';
-import 'package:dmi_practica09_200070/media_list.dart';
+import 'package:dmi_practica10_200070/media_list.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key});

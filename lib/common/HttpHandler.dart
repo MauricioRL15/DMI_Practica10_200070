@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:dmi_practica09_200070/common/Constants.dart';
-import 'package:dmi_practica09_200070/model/Media.dart';
+import 'package:dmi_practica10_200070/common/Constants.dart';
+import 'package:dmi_practica10_200070/model/Media.dart';
 
 class HttpHandler {
   final String _baseUrl = "api.themoviedb.org";
