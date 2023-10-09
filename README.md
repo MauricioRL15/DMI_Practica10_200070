@@ -22,7 +22,7 @@ Fecha entrega: 09 de octubre del 2023
 ### Imágenes de la APP
 
 <div style="text-align: center">
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/87f8fdac6a9084134e1fb09433d6ade83fd087f8/P9_img1.jpg?raw=true" alt="Imagen 1" width="400" height="850"/>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/87f8fdac6a9084134e1fb09433d6ade83fd087f8/P9_img2.jpg?raw=true" alt="Imagen 1" width="400" height="850"/>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/87f8fdac6a9084134e1fb09433d6ade83fd087f8/P9_img3.jpg?raw=true" alt="Imagen 1" width="850" height="400"/>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/3d63bb8302d426e766d604611c584e396ab48727/P10_IMG3.jpg?raw=true" alt="Imagen 1" width="400" height="850"/>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/3d63bb8302d426e766d604611c584e396ab48727/P10_IMG2.jpg?raw=true" alt="Imagen 1" width="400" height="850"/>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/3d63bb8302d426e766d604611c584e396ab48727/P10_IMG1.jpg?raw=true" alt="Imagen 1" width="850" height="400"/>
 </div>
